@@ -8,7 +8,7 @@ function submitFun(elme) {
     username = document.querySelector("#name").value;
     password =  document.querySelector("#password").value;
 
-    if (username == "durgesh" && password == "durgesh") {
+    if (username == "kriti" && password == "12345") {
        
         window.location.href = "student.html";
     } else {
